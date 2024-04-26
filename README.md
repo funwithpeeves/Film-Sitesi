@@ -10,4 +10,4 @@ Features: navbar, sidebar, JavaScript Slider, Css and JavaScript Darkmode
 
 
 
-![GIFMaker_me (1) (3)](https://github.com/funwithpeeves/film-sitesi/assets/164248954/57b9169e-2dc0-4ec3-b9ba-d87e24d068c0)
+![GIFMaker_me (1) (4)](https://github.com/funwithpeeves/film-sitesi/assets/164248954/9a8f6777-107a-4ea5-b4ed-dc41e68dda44)
